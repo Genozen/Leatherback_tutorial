@@ -26,5 +26,6 @@ Post-training:
 ./isaaclab.sh -p scripts/reinforcement_learning/skrl/play.py --task Leatherback_1-Direct-v0 --num_envs 32
 ```
 
-## Extensin Template
+
+## Extension Template
 work in progress for isolated extension environment
