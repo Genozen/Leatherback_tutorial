@@ -2,7 +2,7 @@
 ```
 Credit: 
 Strainflow (Eric)
-Antoine: https://github.com/AntoineRichard/
+Antoine Richard: https://github.com/AntoineRichard/
 Papachuck: https://github.com/renanmb
 
 Maintainer:
