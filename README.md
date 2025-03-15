@@ -2,6 +2,6 @@
 ```
 Credit: Strainflow (Eric), Antoine, Papachuck
 Maintainer: Genozen
-03/14/2025
 Licensing: BSD-3-Clause
+03/14/2025
 ```
