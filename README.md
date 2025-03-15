@@ -27,5 +27,3 @@ Post-training:
 ```
 
 
-## Extension Template
-work in progress for isolated extension environment
