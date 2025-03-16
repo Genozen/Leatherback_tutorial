@@ -14,16 +14,7 @@ Licensing: BSD-3-Clause
 ```
 
 
-# Commands:
-Training:
-```
-# for training
-./isaaclab.sh -p scripts/reinforcement_learning/skrl/train.py --task Leatherback_1-Direct-v0 --headless
-```
-Post-training:
-```
-# after training
-./isaaclab.sh -p scripts/reinforcement_learning/skrl/play.py --task Leatherback_1-Direct-v0 --num_envs 32
-```
+## Documentation
+https://lycheeai.notion.site/Leatherback-Community-Project-1b828763942b818c903be4648e53f23d?pvs=4
 
 
