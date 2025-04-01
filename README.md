@@ -22,6 +22,7 @@ Specifications: </br>
 `Isaac Lab = 2.0` </br>
 `CUDA = 12.` </br>
 `Linux/Windows` </br>
+For more specifications checkout: https://isaac-sim.github.io/IsaacLab/main/source/setup/installation/pip_installation.html# </br>
 
 
 ## Quick Commands
