@@ -17,7 +17,11 @@ Licensing: BSD-3-Clause
 ## Documentation
 https://lycheeai.notion.site/Leatherback-Community-Project-1b828763942b818c903be4648e53f23d?pvs=4
 
-
+Specifications:
+Isaac Sim = 4.5.0
+Isaac Lab = 2.0
+CUDA = 12.
+Linux/Windows
 
 
 ## Quick Commands
